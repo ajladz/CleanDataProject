@@ -9,7 +9,7 @@ The source data represents data collected from the accelerometers and gyroscopes
 A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-In following section I'll give a short information about data and then proceed to explain steps taken to clean up data, as well as information on variables used in each step.
+In the following section I'll give a short information about data and then proceed to explain steps taken to clean up data, as well as information on variables used in each step.
 
 ### Attention! 
 Running the run_analysis.R script will download data obtained through 'Human Activity Recognition Using Smartphones Dataset' study. That is, of course, if you do not already have that data downloaded in R working directory in which case that step will be skipped.
